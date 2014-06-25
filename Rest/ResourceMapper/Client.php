@@ -13,7 +13,7 @@ use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityRepository;
 use Hal\Resource;
 use Ingewikkeld\Rest\OAuthServerBundle\Entity\Client as ClientEntity;
-use Ingewikkeld\Rest\Resource\MapperInterface;
+use Ingewikkeld\Rest\ResourceBundle\Resource\MapperInterface;
 use Symfony\Component\Form\FormInterface;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Symfony\Component\Routing\Generator\UrlGeneratorInterface;
