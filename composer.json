@@ -1,0 +1,15 @@
+{
+    "name": "ingewikkeld/oauth-server-bundle",
+    "description": "A bundle that contains standard stuff for an OAuth server (for use with friendsofsymfony/oauth-server-bundle)",
+    "license": "MIT",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Stefan Koopmanschap",
+            "email": "stefan@ingewikkeld.net"
+        }
+    ],
+    "require": {
+        "friendsofsymfony/oauth-server-bundle": "dev-master"
+    }
+}
