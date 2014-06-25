@@ -1,5 +1,5 @@
 {
-    "name": "ingewikkeld/oauth-server-bundle",
+    "name": "ingewikkeld/rest-oauth-server-bundle",
     "description": "A bundle that contains standard stuff for an OAuth server (for use with friendsofsymfony/oauth-server-bundle)",
     "license": "MIT",
     "version": "0.1",
