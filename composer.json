@@ -11,6 +11,6 @@
     ],
     "require": {
         "friendsofsymfony/oauth-server-bundle": "dev-master",
-        "ingewikkeld/rest-resource-bundle": "dev-master",
+        "ingewikkeld/rest-resource-bundle": "dev-master"
     }
 }
