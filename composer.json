@@ -4,7 +4,7 @@
     "license": "MIT",
     "version": "0.1",
     "autoload": {
-            "psr-0": { "": "src/" }
+            "psr-0": { "Ingewikkeld": "src/" }
     },
     "authors": [
         {
