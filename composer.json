@@ -3,6 +3,9 @@
     "description": "A bundle that contains standard stuff for an OAuth server (for use with friendsofsymfony/oauth-server-bundle)",
     "license": "MIT",
     "version": "0.1",
+    "autoload": {
+            "psr-0": { "": "src/" }
+    },
     "authors": [
         {
             "name": "Stefan Koopmanschap",
