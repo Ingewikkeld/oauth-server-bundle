@@ -9,7 +9,7 @@
 
 namespace Ingewikkeld\Rest\OAuthServerBundle\Form;
 
-use Ingewikkeld\Rest\Resource\FormTypeInterface;
+use Ingewikkeld\Rest\ResourceBundle\Resource\FormTypeInterface;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\Validator\Constraints\All;
